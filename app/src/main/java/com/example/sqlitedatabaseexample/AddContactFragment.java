@@ -1,5 +1,6 @@
 package com.example.sqlitedatabaseexample;
 
+import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 
